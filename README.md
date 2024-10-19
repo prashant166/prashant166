@@ -17,6 +17,9 @@
   - A **Multi-User Video Chat Application** featuring real-time chat, screen sharing, and machine learning integration. [In Progress]
   - A **Bookshelf Application** using the MERN stack with dynamic UI and user authentication.
   - A **File Sharing Application** enabling users to upload files and generate direct download links.
+  - A **Backend-Focused Ticket Booking App** similar to BookMyShow, with features like user management, event browsing, and booking, built using Node.js, Express, and MongoDB for backend services.
+
+  - A **Real-Time Polling System** using Kafka, WebSocket, and Node.js, enabling live data updates for user votes and interactions.
 
 ### 💬 Let's Connect
 Feel free to reach out to me if you want to discuss technology, share ideas, or collaborate on a project!
