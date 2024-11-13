@@ -30,3 +30,5 @@ Feel free to reach out to me if you want to discuss technology, share ideas, or 
 Thanks for visiting my GitHub profile! 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant166&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant166&layout=donut)]
