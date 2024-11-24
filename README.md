@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm Prashant Yadav, a passionate software developer with experience in web development, data structures, and algorithms. I have a knack for learning and enjoy solving complex problems. I'm particularly skilled in working with the MERN stack, Next.js, and building dynamic web applications.
 
-https://user-images.githubusercontent.com/110812339/224934400-ae1625b5-f3f1-434f-82a0-8814d4c3329e.gif
+{https://user-images.githubusercontent.com/110812339/224934400-ae1625b5-f3f1-434f-82a0-8814d4c3329e.gif}
 
 ### 🔭 What I'm Working On
 - **Frontend Development**: Currently enhancing my skills in Next.js and React, focusing on creating responsive and user-friendly web interfaces.
