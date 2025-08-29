@@ -1,33 +1,33 @@
-## About Me
+<h1 align="center">Hi 👋, I'm Prashant</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
-👋 Hi there! I'm Prashant Yadav, a passionate software developer with experience in web development, data structures, and algorithms. I have a knack for learning and enjoy solving complex problems. I'm particularly skilled in working with the MERN stack, Next.js, and building dynamic web applications.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant166&label=Profile%20views&color=0e75b6&style=flat" alt="prashant166" /> </p>
 
-![224934400-ae1625b5-f3f1-434f-82a0-8814d4c3329e](https://github.com/user-attachments/assets/67932a68-61c2-4968-a032-eeadb3423897)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashant166" alt="prashant166" /></a> </p>
 
+- 🔭 I’m currently working on **GoLive - live stream platform**
 
-### 🔭 What I'm Working On
-- **Frontend Development**: Currently enhancing my skills in Next.js and React, focusing on creating responsive and user-friendly web interfaces.
-- **Backend Development**: Working with Node.js, Express.js, and databases like PostgreSQL and MongoDB to build robust and secure APIs.
-- **Data Structures & Algorithms**: Continuously improving my problem-solving skills through practice with linked lists, binary search trees, and string manipulation.
+- 🌱 I’m currently learning **Go, Kafka, Redis**
 
-### 🌱 What I'm Learning
-- Exploring advanced concepts in React Native to build cross-platform mobile applications.
-- Deepening my understanding of software architecture and design patterns.
+- 👨‍💻 All of my projects are available at [https://prashantt-portfolio.netlify.app/](https://prashantt-portfolio.netlify.app/)
 
-### 💼 Experience
-- **SDE Intern at Atomxel**: Developing the frontend of a website using Next.js, React, and the MERN stack. Working on building software, creating REST APIs, and integrating backend systems with frontend applications.
-- **Past Projects**:
-  - A **Multi-User Video Chat Application** featuring real-time chat, screen sharing, and machine learning integration. [In Progress]
-  - A **Bookshelf Application** using the MERN stack with dynamic UI and user authentication.
-  - A **File Sharing Application** enabling users to upload files and generate direct download links.
-  - A **Backend-Focused Ticket Booking App** similar to BookMyShow, with features like user management, event browsing, and booking, built using Node.js, Express, and MongoDB for backend services.
+- 💬 Ask me about **backend**
 
-  - A **Real-Time Polling System** using Kafka, WebSocket, and Node.js, enabling live data updates for user votes and interactions.
+- 📫 How to reach me **prashantpyadav9@gmail.com**
 
-### 💬 Let's Connect
-Feel free to reach out to me if you want to discuss technology, share ideas, or collaborate on a project!
+- 📄 Know about my experiences [https://drive.google.com/file/d/1x_JfbZD2FZYoMxjdPyKn2vZdcCvIT_U_/view?usp=drivesdk](https://drive.google.com/file/d/1x_JfbZD2FZYoMxjdPyKn2vZdcCvIT_U_/view?usp=drivesdk)
 
-- **LinkedIn**: [https://www.linkedin.com/in/prashantyadav166/](#)
-- **Email**: [prashantpyadav9@gmail.com](mailto:your.email@example.com)
+- ⚡ Fun fact **there isnt any fun fact**
 
-Thanks for visiting my GitHub profile! 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/prashantyadav166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashantyadav166" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prashantyadav161111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashantyadav161111" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant166&show_icons=true&locale=en&layout=compact" alt="prashant166" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant166&show_icons=true&locale=en" alt="prashant166" /></p>
